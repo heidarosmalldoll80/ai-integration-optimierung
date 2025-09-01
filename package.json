@@ -1,6 +1,6 @@
 {
   "name": "ai-integration-optimierung",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Projekt zur Unterstützung von KMUs bei der Integration von KI",
   "main": "index.js",
   "scripts": {
