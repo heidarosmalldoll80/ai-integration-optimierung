@@ -16,7 +16,7 @@ mongoose.connect(mongoURI, { useNewUrlParser: true, useUnifiedTopology: true })
 
 // Setup simple API endpoints
 app.get('/', (req, res) => {
-  res.send('Welcome to the AI Integration Optimization API');
+  res.send('Welcome to the AI Integration Optimization API!');
 });
 
 app.listen(PORT, () => {
