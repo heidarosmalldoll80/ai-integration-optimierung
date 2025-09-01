@@ -1,12 +1,15 @@
 {
   "name": "my-project",
   "version": "1.0.0",
-  "description": "A simple Node.js project with basic setup. Consider using Jest for automated testing and ESLint for code quality.",
+  "description": "A simple Node.js project that includes automated testing using Jest and code quality checks with ESLint.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
   "author": "Your Name",
-  "license": "ISC"
+  "license": "ISC",
+  "contributors": [
+    "Your Name"
+  ]
 }
