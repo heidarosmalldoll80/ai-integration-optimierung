@@ -1,7 +1,7 @@
 {
   "name": "my-project",
   "version": "1.0.0",
-  "description": "A simple Node.js project with basic setup. Consider using Jest for automated testing.",
+  "description": "A simple Node.js project with basic setup. Consider using Jest for automated testing and ESLint for code quality.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
