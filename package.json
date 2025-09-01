@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.10.9",
+    "mongoose": "^6.0.12",
     "@tensorflow/tfjs": "^3.8.0",
     "@tensorflow/tfjs-node": "^3.8.0"
   },
